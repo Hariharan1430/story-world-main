@@ -1,0 +1,40 @@
+# Ignore node_modules in both frontend and backend
+app/node_modules/
+api/node_modules/
+# Logs
+admin-panel/logs
+admin-panel/*.log
+admin-panel/npm-debug.log*
+admin-panel/yarn-debug.log*
+admin-panel/yarn-error.log*
+admin-panel/pnpm-debug.log*
+admin-panel/lerna-debug.log*
+
+admin-panel/node_modules
+admin-panel/dist
+admin-panel/dist-ssr
+admin-panel/*.local
+
+# Editor directories and files
+admin-panel/.vscode/*
+admin-panel/!.vscode/extensions.json
+admin-panel/.idea
+admin-panel/.DS_Store
+admin-panel/*.suo
+admin-panel/*.ntvs*
+admin-panel/*.njsproj
+admin-panel/*.sln
+admin-panel/*.sw?
+
+# Ignore global node_modules (if applicable)
+node_modules/
+
+api/dist
+api/.env
+
+
+# Environment variables
+.env
+admin-panel/.env
+api/.env
+app/.env

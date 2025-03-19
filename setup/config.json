@@ -1,0 +1,29 @@
+{
+  "hosting_server": {
+    "root_path": "/var/www/story-world",
+    "api_path": "/api",
+    "admin_panel_path": "/admin-panel",
+    "api_port_number": 5000,
+    "admin_panel_port_number": 5001
+  },
+  "seed_data": {
+    "userRoles": [
+      {
+        "name": "Admin",
+        "description": "Admin role"
+      },
+      {
+        "name": "Content Manager",
+        "description": "Content Manager role"
+      },
+      {
+        "name": "Content Moderator",
+        "description": "Content Moderator role"
+      },
+      {
+        "name": "User",
+        "description": "End user role"
+      }
+    ]
+  }
+}

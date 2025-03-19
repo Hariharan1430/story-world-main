@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "117539190816",
+    "project_id": "story-world-app",
+    "storage_bucket": "story-world-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117539190816:android:7ba34ea2e0c82b318ea445",
+        "android_client_info": {
+          "package_name": "com.sivra.storyworldapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxMl29nTbpZf1jra8pIoevYo1bwQNxD7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

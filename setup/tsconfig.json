@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ES2020", // Target modern JavaScript
+    "module": "ES2020", // Use ES modules
+    "outDir": "dist",   // Output compiled files to the 'dist' directory
+    "moduleResolution": "node", // Resolve modules in Node.js style
+    "esModuleInterop": true // For compatibility with CommonJS modules
+  },
+  "include": ["setup.ts"], // Include only 'setup.ts'
+  "exclude": ["node_modules"] // Exclude 'node_modules'
+}

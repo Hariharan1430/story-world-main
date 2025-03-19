@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'DupletRounded';
+    src: url('./DupletRounded-Semibold.otf') format('opentype'),
+         url('./DupletRounded-Regular.otf') format('opentype');
+    font-style: normal;
+    font-display: swap;
+  }
